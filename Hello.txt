@@ -2,3 +2,5 @@
 Другая строка stroka 21
 
 Hello, git!
+Hello, git rebase!
+
